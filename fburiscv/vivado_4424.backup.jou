@@ -1,0 +1,21 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Tue Jan 19 10:24:44 2021
+# Process ID: 4424
+# Current directory: C:/Users/Emre/Desktop/riscv-simple-sv-master/riscvVivado
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent9236 C:\Users\Emre\Desktop\riscv-simple-sv-master\riscvVivado\riscvVivado.xpr
+# Log file: C:/Users/Emre/Desktop/riscv-simple-sv-master/riscvVivado/vivado.log
+# Journal file: C:/Users/Emre/Desktop/riscv-simple-sv-master/riscvVivado\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/Emre/Desktop/riscv-simple-sv-master/riscvVivado/riscvVivado.xpr
+update_compile_order -fileset sources_1
+launch_simulation
+source tb_top.tcl
+run all
+relaunch_sim
+run all
+relaunch_sim
+run all

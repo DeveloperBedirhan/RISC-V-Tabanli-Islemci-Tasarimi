@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Mon May 16 15:59:23 2022
+# Process ID: 15888
+# Current directory: C:/Users/User/Desktop/fburiscv
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent11464 C:\Users\User\Desktop\fburiscv\riscvVivado.xpr
+# Log file: C:/Users/User/Desktop/fburiscv/vivado.log
+# Journal file: C:/Users/User/Desktop/fburiscv\vivado.jou
+#-----------------------------------------------------------
+start_guopen_project -part xc7k70tfbv676-1 C:/Users/User/Desktop/fburiscv/riscvVivado.xpr
+update_compile_order -fileset sources_1
